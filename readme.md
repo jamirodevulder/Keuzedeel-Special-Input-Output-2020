@@ -16,6 +16,7 @@ Ik heb gebruik gemaakt van:
 * Unreal Engine + OSC Plugin
 * BrainwaveOSC Applicatie
 * Github
+* Trello
 
 
 
