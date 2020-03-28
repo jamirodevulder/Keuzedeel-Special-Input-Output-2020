@@ -65,10 +65,10 @@ ik heb met trello en github gewerkt en via excel een logboek bij gehouden.
 
 
 ## Portfolio
-Zet hier de links neer naar jullie documentatie.
+hier mijn links naar alle documentatie.
 
 * bronnen lijst: https://docs.google.com/document/d/1bh96DhaGPxsRXoEwBGFFvpMsLTkkdXmbcw9s8xUl5ho/edit?usp=sharing
-* Onderzoek: https://drive.google.com/file/d/1PT5mk0t7_kbFICba_wXI2kEHPask9mfn/view?usp=sharing
-*
-*
-*
+* onderzoek: https://drive.google.com/file/d/1PT5mk0t7_kbFICba_wXI2kEHPask9mfn/view?usp=sharing
+* concept tekening:https://drive.google.com/file/d/1Qk_vRj3M36hg7g0SSitfsYPr9la0Rbz2/view?usp=sharing
+* tussentijdse test video: https://youtu.be/toUiP2awmMk
+* tussentijdse test documentatie:
