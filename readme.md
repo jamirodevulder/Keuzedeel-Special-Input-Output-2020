@@ -71,5 +71,5 @@ hier mijn links naar alle documentatie.
 * bronnen lijst: https://docs.google.com/document/d/1bh96DhaGPxsRXoEwBGFFvpMsLTkkdXmbcw9s8xUl5ho/edit?usp=sharing
 * onderzoek: https://drive.google.com/file/d/1PT5mk0t7_kbFICba_wXI2kEHPask9mfn/view?usp=sharing
 * concept tekening:https://drive.google.com/file/d/1Qk_vRj3M36hg7g0SSitfsYPr9la0Rbz2/view?usp=sharing
-* tussentijdse test video: https://youtu.be/toUiP2awmMk
-* tussentijdse test documentatie:
+* tussentijdse test video 1: https://youtu.be/toUiP2awmMk
+* tussentijdse tests documentatie: https://drive.google.com/file/d/1qr9lPKWsaXtTRcVWMZtu4ln2PEMaIrdP/view?usp=sharing
