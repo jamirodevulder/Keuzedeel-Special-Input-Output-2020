@@ -14,6 +14,8 @@ Ik heb gebruik gemaakt van:
 * Neurosky Brainwave starter kit neurosensor
 * Unreal Engine + OSC Plugin
 * BrainwaveOSC Applicatie
+* Github
+
 
 
 
@@ -53,6 +55,12 @@ je hebt 60 seconden om het doolhof te halen anders ben je game over.
 * concept tekening: https://drive.google.com/file/d/1Qk_vRj3M36hg7g0SSitfsYPr9la0Rbz2/view?usp=sharing
 * bronnen lijst: https://docs.google.com/document/d/1bh96DhaGPxsRXoEwBGFFvpMsLTkkdXmbcw9s8xUl5ho/edit?usp=sharing
 
+## SCRUM
+
+ik heb met trello en github gewerkt en via excel een logboek bij gehouden.
+
+* trello: https://trello.com/b/mOkWUgnC/braingame
+* github: https://github.com/jamirodevulder/Keuzedeel-Special-Input-Output-2020
 
 
 ## Portfolio
