@@ -22,13 +22,43 @@ https://drive.google.com/open?id=1Oyuhksx1-ON7hd1ajctwgmFTmWjhTZcR
 
 ## Ontwerp
 
+### Oorspronkelijke idee 1
+je hebt een sensor op je voorhoofd en een knijpertje aan je oor. door concentratie beweeg je door het doolhof.
+je loopt goed als je concentratie hoger is dan 50 en je loopt slecht als ie lager is.
+er lopen verschillende enemie's rond door de maze.
+zij doen jou damage wanneer ze jou raken je hebt dan ook 3 levens op je UI als die op zijn ben je af.
+door middel van knipperen kan je de enemie's slaan wanneer je dichtbij genoeg ben.
+
+dit idee kon helaas niet doorgaan omdat het apparaat niet accuraat genoeg was met knipperen.
+
+### Oorspronkelijke idee 2
+je hebt een sensor op je voorhoofd en een knijpertje aan je oor. door concentratie beweeg je door het doolhof.
+je loopt goed als je concentratie hoger is dan 50 en je loopt slecht als ie lager is.
+er lopen verschillende enemie's rond door de maze.
+zij doen jou damage wanneer ze jou raken je hebt dan ook 3 levens op je UI als die op zijn ben je af.
+door middel van schreeuwen kan je de enemie's slaan wanneer je dichtbij genoeg ben.
+
+oplossing van het voorige probleem was het gebruik maken van schreeuwen om het voorelkaar te krijgen.
+helaas was dit niet mogelijk doordat de plugin niet werkend te krijgen was in unreal engine (voor een oudere versie unreal)
+
+
+### uiteindelijke idee 3
+je hebt een sensor op je voorhoofd en een knijpertje aan je oor. door concentratie beweeg je door het doolhof.
+je loopt goed als je concentratie hoger is dan 60 en je loopt slecht als ie lager is.
+er komen verschillende plaatjes tevoorschijn om je af te leiden waardoor je concentratie omlaag gaat.
+je hebt 60 seconden om het doolhof te halen anders ben je game over.
+
+
+
 * concept tekening: https://drive.google.com/file/d/1Qk_vRj3M36hg7g0SSitfsYPr9la0Rbz2/view?usp=sharing
+* bronnen lijst: https://docs.google.com/document/d/1bh96DhaGPxsRXoEwBGFFvpMsLTkkdXmbcw9s8xUl5ho/edit?usp=sharing
 
 
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
 
+* bronnen lijst: https://docs.google.com/document/d/1bh96DhaGPxsRXoEwBGFFvpMsLTkkdXmbcw9s8xUl5ho/edit?usp=sharing
 * Onderzoek: https://drive.google.com/file/d/1PT5mk0t7_kbFICba_wXI2kEHPask9mfn/view?usp=sharing
 *
 *
