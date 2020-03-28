@@ -17,7 +17,7 @@ Ik heb gebruik gemaakt van:
 
 
 
-* Alle documentatie kan je vinden op mijn drive:
+##### Alle documentatie kan je vinden op mijn drive:
 https://drive.google.com/open?id=1Oyuhksx1-ON7hd1ajctwgmFTmWjhTZcR
 
 ## Ontwerp
