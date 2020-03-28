@@ -19,7 +19,7 @@ voorbeeld
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
 
-* [Onderzoek](jamirodevulder.eu)
+* [Onderzoek](http://jamirodevulder.eu/)
 * [Ontwerp]()
 * [Testrapportage]()
 * [Presentatie]()
