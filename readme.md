@@ -1,9 +1,7 @@
-# Special Input/Output
+# Special Input/Output Neurosky Escape the Maze Game
 Team #
 Jamiro de Vulder GD2A
 
-
-### Neurosky Escape the Maze Game
 
 ## De Game
 de game is een simpele escape the maze game (zo een die je in 3+ leeftijd puzzelboekjes vind)
