@@ -1,10 +1,9 @@
 # Special Input/Output
 Team #
-1. teamlid
-2. teamlid
-3. teamlid
+Jamiro de Vulder GD2A
 
-[Projectmanagment]() <Trello scrumboard bijvoorbeeld>
+
+### Neurosky Escape the Maze Game
 
 ## De Game
 de game is een simpele escape the maze game (zo een die je in 3+ leeftijd puzzelboekjes vind)
@@ -15,10 +14,8 @@ je zal binnen 60 seconden het einde moetten halen anders ben je game over.
 mijn special input is dus een neurosensor.
 
 
-* Alle documentatie kan je vinden op mijn drive
-  * https://drive.google.com/open?id=1Oyuhksx1-ON7hd1ajctwgmFTmWjhTZcR
-##
-
+* Alle documentatie kan je vinden op mijn drive:
+https://drive.google.com/open?id=1Oyuhksx1-ON7hd1ajctwgmFTmWjhTZcR
 
 ## Ontwerp
 
