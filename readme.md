@@ -1,9 +1,10 @@
-# Special Input/Output Neurosky Escape the Maze Game
+# Special Input/Output:
 Team #
-Jamiro de Vulder GD2A
+1. Jamiro de Vulder
+Klas: GD2A
 
 
-## De Game
+## Neurosky Escape the Maze Game
 de game is een simpele escape the maze game (zo een die je in 3+ leeftijd puzzelboekjes vind)
 je hebt een neurosensor van neurosky op je hoofd. die meet wat je concentratie niveau is van 0 tot 100.
 bij een concentratie van 60 zal je goed lopen en bij een lagere concentratie zal je verkeerd lopen.
