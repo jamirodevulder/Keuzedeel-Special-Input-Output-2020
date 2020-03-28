@@ -1,6 +1,6 @@
 # Special Input/Output
 Team #
-1. teamlid 
+1. teamlid
 2. teamlid
 3. teamlid
 
@@ -19,7 +19,7 @@ voorbeeld
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
 
-* [Onderzoek]()
+* [Onderzoek](https://jamirodevulder.eu)
 * [Ontwerp]()
 * [Testrapportage]()
 * [Presentatie]()
