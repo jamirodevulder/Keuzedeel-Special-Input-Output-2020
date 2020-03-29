@@ -65,7 +65,7 @@ ik heb met trello en github gewerkt en via excel een logboek bij gehouden.
 
 * trello: https://trello.com/b/mOkWUgnC/braingame
 * github: https://github.com/jamirodevulder/Keuzedeel-Special-Input-Output-2020
-
+* logboek: https://drive.google.com/file/d/1j3C8FalE6B2pThy4q9IgoY4u-EmgI7P4/view?usp=sharing
 
 ## Portfolio
 hier mijn links naar alle documentatie.
