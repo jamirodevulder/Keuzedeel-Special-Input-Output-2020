@@ -5,6 +5,8 @@ Team #
 Klas: GD2A
 
 
+![neurosensor](https://images-na.ssl-images-amazon.com/images/I/71e-0JHx0ZL._SL1500_.jpg)
+
 ## Neurosky Escape the Maze Game
 de game is een simpele escape the maze game (zo een die je in 3+ leeftijd puzzelboekjes vind)
 je hebt een neurosensor van neurosky op je hoofd. die meet wat je concentratie niveau is. dat kan van 0 tot 100 zijn.
@@ -77,3 +79,4 @@ hier mijn links naar alle documentatie.
 * tussentijdse test video 1: https://youtu.be/toUiP2awmMk
 * tussentijdse tests documentatie: https://drive.google.com/file/d/1qr9lPKWsaXtTRcVWMZtu4ln2PEMaIrdP/view?usp=sharing
 * presentatie (1/2/3): https://drive.google.com/drive/folders/155FVyAHIX0SzB7NofAUvpgKYuFFvVkjI?usp=sharing
+* testrapport:
