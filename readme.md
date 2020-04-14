@@ -81,3 +81,5 @@ hier mijn links naar alle documentatie.
 * tussentijdse test rapport: https://drive.google.com/file/d/1qr9lPKWsaXtTRcVWMZtu4ln2PEMaIrdP/view?usp=sharing
 * presentatie (1/2/3): https://drive.google.com/drive/folders/155FVyAHIX0SzB7NofAUvpgKYuFFvVkjI?usp=sharing
 * test plan: https://drive.google.com/open?id=1S4YVNgjUDP7JSMEj3eICLTAMgQ0_CaPE
+* usertest video: https://youtu.be/kf-YkJ7EDtE
+* test rapport: https://drive.google.com/open?id=1N2XU5Xz0z7ykW9Y_zJrLZb7kPMGCCOis
