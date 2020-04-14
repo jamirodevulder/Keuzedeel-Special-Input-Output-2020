@@ -76,7 +76,8 @@ hier mijn links naar alle documentatie.
 * onderzoek: https://drive.google.com/file/d/1PT5mk0t7_kbFICba_wXI2kEHPask9mfn/view?usp=sharing
 * concept tekening: https://drive.google.com/file/d/1Qk_vRj3M36hg7g0SSitfsYPr9la0Rbz2/view?usp=sharing
 * ontwerp document: https://drive.google.com/file/d/1jzH8lcis3YLqKIULmLIrayOXGIje3kiH/view?usp=sharing
-* tussentijdse test video 1: https://youtu.be/toUiP2awmMk
-* tussentijdse tests documentatie: https://drive.google.com/file/d/1qr9lPKWsaXtTRcVWMZtu4ln2PEMaIrdP/view?usp=sharing
+* tussentijdse test plan: https://drive.google.com/open?id=1px935uHLVU8YyJjcgPpphirSWmb3lbmZ
+* tussentijdse test video: https://youtu.be/toUiP2awmMk
+* tussentijdse test rapport: https://drive.google.com/file/d/1qr9lPKWsaXtTRcVWMZtu4ln2PEMaIrdP/view?usp=sharing
 * presentatie (1/2/3): https://drive.google.com/drive/folders/155FVyAHIX0SzB7NofAUvpgKYuFFvVkjI?usp=sharing
-* testrapport:
+* test plan: https://drive.google.com/open?id=1S4YVNgjUDP7JSMEj3eICLTAMgQ0_CaPE
